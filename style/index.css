@@ -1,0 +1,45 @@
+#dogum,#dogdois,#dogtres,#dogquatro,#banner,#food,#toy,#thanks{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#banner{
+    height: 400px;
+    background-image: url("../images/banner.jpg");
+}
+
+#dogum{
+    height: 400px;
+    background-image: url("../images/middle1.jpg");
+}
+
+#dogdois{
+    height: 400px;
+    background-image: url("../images/middle2.jpg");
+}
+
+#dogtres{
+    height: 400px;
+    background-image: url("../images/middle3.jpg");
+}
+
+#dogquatro{
+    height: 400px;
+    background-image: url("../images/middle4.jpg");
+}
+
+#food{
+    height: 500px;
+    background-image: url("../images/food2.jpg");
+}
+
+#toy{
+    height: 500px;
+    background-image: url("../images/toy1.jpg");
+}
+
+#thanks{
+    height: 500px;
+    background-image: url(../images/thanks.jpg);
+}
